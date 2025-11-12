@@ -1,4 +1,4 @@
-![Header](https://github.com/shriyabhandekar/shriyabhandekar/blob/main/Black and Brown Simple Modern Professional Business LinkedIn Banner.png)
+![Header](https://github.com/shriyabhandekar/shriyabhandekar/blob/main/header.png)
 # 👋 Hi, I'm Shriya Bhandekar
 
 🎓 MS in Information Technology Management | 💡 Data & ERP Analytics  
