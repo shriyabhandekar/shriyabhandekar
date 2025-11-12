@@ -1,3 +1,4 @@
+![Header](https://github.com/shriyabhandekar/shriyabhandekar/blob/main/header.png)
 # 👋 Hi, I'm Shriya Bhandekar
 
 🎓 MS in Information Technology Management | 💡 Data & ERP Analytics  
