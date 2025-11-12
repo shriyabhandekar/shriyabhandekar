@@ -18,19 +18,6 @@
 
 ## 💼 Featured Projects
 
-### 🔹 [World Food Price & Affordability Analysis](#)
-_Web mining + Power BI + Python_  
-Analyzed global food price data from 99 countries using web scraping and Power BI dashboards to visualize affordability trends.
-
-### 🔹 [Oracle 12.2 Data Migration Dashboard](#)
-_Oracle SQL + PL/SQL + Power BI_  
-Developed migration validation scripts and KPI dashboards to track HR data accuracy and SLA compliance across regions.
-
-### 🔹 [Accessibility Analytics Portal (UWM ARC)](#)
-_SAS Visual Analytics + AWS + Python_  
-Built accessibility compliance scorecards and automated metadata updates to improve campus-wide reporting efficiency.
-## 💼 Featured Projects
-
 | Project | Tech Stack | Description |
 |----------|-------------|--------------|
 | [**World Food Price & Affordability Analysis**](#) | Python • Power BI • Web Scraping | Visualized global food affordability trends for 99 countries. |
