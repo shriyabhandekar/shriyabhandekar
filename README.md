@@ -8,6 +8,15 @@
 
 ## 🚀 Skills
 
+## 🧠 Tech Stack
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 **Business Intelligence & Visualization:** Power BI, Tableau, SAS Visual Analytics  
 **Data Management & Analysis:** SQL, PL/SQL, Python (pandas, matplotlib, seaborn)  
 **ERP Systems:** SAP (PP, QM, SD, MM), Oracle EBS 12.1/12.2, Oracle Cloud ERP  
