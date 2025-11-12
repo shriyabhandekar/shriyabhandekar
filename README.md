@@ -1,9 +1,4 @@
 ![Header](https://github.com/shriyabhandekar/shriyabhandekar/blob/main/header.png)
-## ⚙️ GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shriyabhandekar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyabhandekar&theme=radical" />
-</p>
 👋 Hi, I'm Shriya Bhandekar
 
 🎓 MS in Information Technology Management | 💡 Data & ERP Analytics  
@@ -34,6 +29,13 @@ Developed migration validation scripts and KPI dashboards to track HR data accur
 ### 🔹 [Accessibility Analytics Portal (UWM ARC)](#)
 _SAS Visual Analytics + AWS + Python_  
 Built accessibility compliance scorecards and automated metadata updates to improve campus-wide reporting efficiency.
+## 💼 Featured Projects
+
+| Project | Tech Stack | Description |
+|----------|-------------|--------------|
+| [**World Food Price & Affordability Analysis**](#) | Python • Power BI • Web Scraping | Visualized global food affordability trends for 99 countries. |
+| [**Oracle 12.2 Data Migration Dashboard**](#) | SQL • PL/SQL • Power BI | Automated HR data migration validation across regions. |
+| [**Accessibility Analytics Portal (UWM ARC)**](#) | SAS • AWS • Python | Built compliance dashboards & automated metadata refresh. |
 
 ---
 
