@@ -4,7 +4,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shriyabhandekar&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyabhandekar&theme=radical" />
 </p>
-# 👋 Hi, I'm Shriya Bhandekar
+#👋 Hi, I'm Shriya Bhandekar
 
 🎓 MS in Information Technology Management | 💡 Data & ERP Analytics  
 📊 Passionate about transforming enterprise data into powerful dashboards, automations, and insights.
