@@ -1,5 +1,3 @@
-![Header](https://github.com/shriyabhandekar/shriyabhandekar/blob/main/header.png)
-
 # 👋 Hi, I'm Shriya Bhandekar | Business Analyst
 
 📍 Frisco, TX | MS in Information Technology Management  
