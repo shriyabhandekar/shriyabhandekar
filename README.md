@@ -8,15 +8,19 @@ Currently exploring: Business requirements gathering, stakeholder communication,
 ## 💼 Business Analyst Toolkit
 
 **Core BA Skills:**
-- Requirements Analysis & Documentation | Stakeholder Management | Process Mapping
-- Data Analysis & Visualization (Power BI, Tableau)
-- SQL & Python for data extraction & transformation
-- ERP Systems (SAP, Oracle) — deep operational knowledge
+- Requirements Gathering & Documentation | Stakeholder Management | Process Mapping
+- Data Analysis & Visualization (Power BI, Tableau) | SQL & Python for ETL
+- ETL Pipeline Design & Optimization | Data Quality Assessment
+- Business Process Analysis | Gap Analysis | Root Cause Analysis
+- Agile/Scrum (Jira) | Technical Documentation | Data Storytelling
 
 **Technical Stack:**
-SQL | Python | Power BI | Tableau | SAS | Excel | VBA | TOAD | AWS | Azure
+SQL | Python | Power BI | Tableau | SAS | Excel | VBA | TOAD | AWS | Azure | Jira
 
-**Industries:** HR, Supply Chain, Logistics, Finance Operations
+**ERP & Enterprise Systems:**
+SAP (PP, QM, SD, MM, WM) | Oracle EBS 12.1/12.2 | Oracle Cloud ERP
+
+**Industries & Domains:** HR Systems | Supply Chain & Logistics | Financial Operations | ERP Implementation
 
 ## 🚀 Recent Projects
 
